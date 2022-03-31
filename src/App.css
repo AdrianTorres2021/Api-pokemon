@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+}
+
+.ul-list{
+  display: flex;
+  justify-content: center;
+}
+.button{
+  display: flex;
+  padding: 5px 20px;
+  margin: 5vh auto;
+  border-radius: 10px;
+  background-color: grey;
+  color: white;
+}
